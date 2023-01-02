@@ -5,9 +5,75 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./images/gaming.jpg);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.home {
+  background-image: url(./images/gaming.jpg);
+  color: white;
+  text-shadow: 1px 1px 0px #ff0000;
+}
+
+.home h2 {
+  font-size: 40pt;
+}
+.home h3 {
+  font-size: 26pt;
+  position: relative;
+}
+
+.card {
+  display: flex;
+  margin: auto;
+  width: 750px;
+  padding: 25px;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 0px #ff0000;
+  background-color: black;
+  border-radius: 50px;
+}
+
+.card-title {
+  font-size: 20pt;
+}
+
+.card-text {
+  font-size: 18pt;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
+
+button {
+  font-size: 30pt;
+  margin: 25px;
+  padding: 10px;
+  border-radius: 30px;
+  text-decoration: none;
+  color: white;
+  background-image: url(./images/button.jpg);
+}
+
+a {
+  color: black;
+  text-shadow: 1px 1px 0px #ff0000;
+  text-decoration: none;
+}
+
+a:link, a:visited, a:hover, a:active { text-decoration: none; }
