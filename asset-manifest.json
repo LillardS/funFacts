@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/funFacts/static/css/main.b56890e0.css",
+    "main.js": "/funFacts/static/js/main.c30e6140.js",
+    "static/js/787.0daba8d2.chunk.js": "/funFacts/static/js/787.0daba8d2.chunk.js",
+    "static/media/gaming.jpg": "/funFacts/static/media/gaming.1bfebace1a707e8c4b0f.jpg",
+    "index.html": "/funFacts/index.html",
+    "main.b56890e0.css.map": "/funFacts/static/css/main.b56890e0.css.map",
+    "main.c30e6140.js.map": "/funFacts/static/js/main.c30e6140.js.map",
+    "787.0daba8d2.chunk.js.map": "/funFacts/static/js/787.0daba8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56890e0.css",
+    "static/js/main.c30e6140.js"
+  ]
+}
